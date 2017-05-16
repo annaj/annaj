@@ -1,15 +1,16 @@
+<<<<<<< HEAD
 # Site settings
-title: Clean Blog
+title: Anna Jacobsen
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+email: anna@getdrip.com
+copyright_name: Your/Project/Anna Jacobsen
+description: "Anna Jacobsen"
+baseurl: "/index"
+url: "http://annajacobsen.co"
+twitter_username: annagjacobsen
+github_username:  annaj
+facebook_username:  annajacobsen
+email_username:  anna@getdrip.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
@@ -23,3 +24,6 @@ paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 gems: [jekyll-paginate, jekyll-feed]
+=======
+theme: jekyll-theme-cayman
+>>>>>>> origin/master
