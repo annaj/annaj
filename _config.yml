@@ -3,14 +3,14 @@
 title: Anna Jacobsen
 header-img: img/home-bg.jpg
 email: anna@getdrip.com
-copyright_name: Your/Project/Anna Jacobsen
+copyright_name: Anna Jacobsen
 description: "Anna Jacobsen"
-baseurl: "/index"
+baseurl: "annaj.github.io"
 url: "http://annajacobsen.co"
 twitter_username: annagjacobsen
 github_username:  annaj
 facebook_username:  annajacobsen
-email_username:  anna+mysite@getdrip.com
+email_username:  anna@getdrip.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
