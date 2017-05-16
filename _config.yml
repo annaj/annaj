@@ -1,16 +1,16 @@
 <<<<<<< HEAD
 # Site settings
-title: Anna Jacobsen
-header-img: img/home-bg.jpg
-email: anna@getdrip.com
-copyright_name: Anna Jacobsen
+title: "Anna Jacobsen"
+header-img: "img/home-bg.jpg"
+email: "anna@getdrip.com"
+copyright_name: "Anna Jacobsen"
 description: "Anna Jacobsen"
 baseurl: "annaj.github.io"
 url: "http://annajacobsen.co/"
-twitter_username: annagjacobsen
-github_username:  annaj
-facebook_username:  annajacobsen
-email_username:  anna@getdrip.com
+twitter_username: "annagjacobsen"
+github_username: "annaj"
+facebook_username: "annajacobsen"
+email_username: "anna@getdrip.com"
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
