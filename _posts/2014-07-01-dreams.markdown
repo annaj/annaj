@@ -1,8 +1,9 @@
 ---
 layout:     post
 title:      "The dreams of yesterday are the hopes of today and the reality of tomorrow."
+subtitle:	"No matter how much progress one makes, there is always the thrill of just beginning."
 date:       2014-07-01 12:00:00
-author:     "Start Bootstrap"
+author:     "Anna Jacobsen"
 header-img: "img/post-bg-02.jpg"
 ---
 
