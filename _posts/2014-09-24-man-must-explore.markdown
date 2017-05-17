@@ -3,7 +3,7 @@ layout:     post
 title:      "Man must explore, and this is exploration at its greatest"
 subtitle:   "Problems look mighty small from 150 miles up"
 date:       2014-09-24 12:00:00
-author:     "Start Bootstrap"
+author:     "Anna Jacobsen"
 header-img: "img/post-bg-06.jpg"
 ---
 
@@ -32,7 +32,7 @@ header-img: "img/post-bg-06.jpg"
 <p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+    <img src="{{ site.url }}/img/post-sample-image.jpg" alt="Post Sample Image">
 </a>
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
