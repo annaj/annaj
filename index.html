@@ -1,0 +1,51 @@
+---
+layout: page
+<<<<<<< HEAD
+description: ""
+=======
+description: 
+published: true
+---
+I believe the most resilient growth channel for any company comes from helping your customers achieve their goals.<br />
+<br />
+Currently, I'm leading a team that does this at YouCanBook.me.<br />
+<br />
+In the past, I did this at Drip.<br />
+<br />
+Occasionally, I'll speak on customer-driven growth, sometimes at conferences, sometimes online.<br />
+<br />
+If you'd like to get in touch, DM me on <a href="http://twitter.com/annagjacobsen/">Twitter</a>.
+
+
+
+{% for post in paginator.posts %}
+<div class="post-preview">
+    <a href="{{ post.url | }}">
+        <h2 class="post-title">            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+    </a>
+    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+</div>
+<hr>
+{% endfor %}
+
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | replace: '//', '/' }}">&larr; Newer Posts</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | replace: '//', '/' }}">Older Posts &rarr;</a>
+    </li>
+    {% endif %}
+</ul>
+{% endif %}
