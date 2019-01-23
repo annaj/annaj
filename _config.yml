@@ -8,8 +8,8 @@ description: "Anna Jacobsen"
 baseurl: "annajacobsen.co"
 url: "http://annajacobsen.co"
 twitter_username: "annagjacobsen"
-github_username: ""
-email_username: "annagjacobsen@gmail.com"
+github_username:
+email_username: "anna@annajacobsen.co"
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
