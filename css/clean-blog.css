@@ -140,10 +140,9 @@ hr.small {
   -webkit-background-size: cover;
   background-position: center;
   -moz-background-size: cover;
-  background-size: cover;
+  background-size: auto 100%;
   -o-background-size: cover;
   margin-bottom: 50px;
-  min-height: 1900px;
 }
 .intro-header .site-heading,
 .intro-header .post-heading,
