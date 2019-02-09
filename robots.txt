@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /trig/
-Sitemap: http://annajacobsen.co/sitemap.xml
+Sitemap: https://annajacobsen.co/sitemap.xml
