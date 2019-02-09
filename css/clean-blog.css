@@ -140,7 +140,7 @@ hr.small {
   -webkit-background-size: cover;
   background-position: center;
   -moz-background-size: cover;
-  background-size: auto 100%;
+  background-size: auto;
   -o-background-size: cover;
   margin-bottom: 50px;
 }
