@@ -17,14 +17,10 @@
             <ul class="nav navbar-nav navbar-right">
                 <li>
                     <a href="{{ site.url }}/">Home</a>
-                </li>
-                {% for page in site.pages %}{% if page.title %}
-				{% if page.url != '/thank-you' %}
+              </li>
                 <li>
-                    <a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a>
+                    <a href="http://annajacobsen.co/contact/">Contact</a>
                 </li>
-				{% endif %}
-                {% endif %}{% endfor %}
             </ul>
         </div>
         <!-- /.navbar-collapse -->
