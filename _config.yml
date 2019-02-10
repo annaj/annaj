@@ -26,3 +26,7 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 gems: [jekyll-paginate, jekyll-feed]
 
 -theme: startbootstrap-clean-blog-jekyll
+
+plugins:
+  - jekyll-seo-tag
+
