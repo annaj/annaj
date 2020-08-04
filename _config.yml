@@ -2,7 +2,7 @@
 # Site settings
 title: "Anna Jacobsen"
 header-img: "img/anna-jacobsen-microconf-2018.png"
-email: "annaj@hey.com"
+email: annaj@hey.com
 copyright_name: "Anna Jacobsen"
 description: "Anna Jacobsen"
 baseurl: "annajacobsen.co"
@@ -10,7 +10,7 @@ url: "https://annajacobsen.co"
 twitter_username: "annagjacobsen"
 github_username: 
 facebook_username: 
-email_username: "annaj@hey.com"
+email_username: annaj@hey.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
